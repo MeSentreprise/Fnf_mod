@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sm251006.png"><SubTexture name="Sm251006 down-10000" x="1584" y="1762" width="1070" height="1707" frameX="-424" frameY="-290" frameWidth="1890" frameHeight="2000" />
+<SubTexture name="Sm251006 down-20000" x="3634" y="0" width="1070" height="1707" frameX="-424" frameY="-290" frameWidth="1890" frameHeight="2000" />
+<SubTexture name="Sm251006 idle-10000" x="4704" y="1707" width="909" height="1705" frameX="-514" frameY="-292" frameWidth="1890" frameHeight="2000" />
+<SubTexture name="Sm251006 idle-20000" x="909" y="0" width="909" height="1734" frameX="-514" frameY="-263" frameWidth="1890" frameHeight="2000" />
+<SubTexture name="Sm251006 idle-30000" x="0" y="0" width="909" height="1762" frameX="-515" frameY="-236" frameWidth="1890" frameHeight="2000" />
+<SubTexture name="Sm251006 idle-40000" x="1818" y="0" width="907" height="1734" frameX="-514" frameY="-264" frameWidth="1890" frameHeight="2000" />
+<SubTexture name="Sm251006 idle-50000" x="2725" y="0" width="909" height="1708" frameX="-515" frameY="-290" frameWidth="1890" frameHeight="2000" />
+<SubTexture name="Sm251006 left-10000" x="2917" y="3470" width="1168" height="1706" frameX="-255" frameY="-292" frameWidth="1890" frameHeight="2000" />
+<SubTexture name="Sm251006 right-10000" x="4704" y="0" width="1106" height="1707" frameX="-515" frameY="-290" frameWidth="1890" frameHeight="2000" />
+<SubTexture name="Sm251006 right-20000" x="0" y="3470" width="1256" height="1707" frameX="-406" frameY="-290" frameWidth="1890" frameHeight="2000" />
+<SubTexture name="Sm251006 up-10000" x="1256" y="3470" width="1661" height="1707" frameX="-65" frameY="-291" frameWidth="1890" frameHeight="2000" />
+<SubTexture name="Sm251006 up-20000" x="0" y="1762" width="1584" height="1708" frameX="-142" frameY="-290" frameWidth="1890" frameHeight="2000" />
+</TextureAtlas>
