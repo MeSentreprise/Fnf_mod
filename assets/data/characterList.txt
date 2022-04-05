@@ -16,4 +16,7 @@ senpai
 senpai-angry
 spirit
 Sm251006
+Sm251006-pixel
 SmReal
+BenAliReal
+Bob

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bobette.png"><SubTexture name="bobette cheer0000" x="0" y="0" width="338" height="294" frameX="-39" frameY="0" frameWidth="400" frameHeight="294" />
+<SubTexture name="bobette cheer0001" x="338" y="0" width="338" height="294" frameX="-39" frameY="0" frameWidth="400" frameHeight="294" />
+</TextureAtlas>
